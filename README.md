@@ -5,8 +5,8 @@
 - Recentemente minhas imagens transbordaram para o campo do design gráfico e a exploração de interfaces por isso, atualmente estudo JavaScript, React e design UX.
 - Além disso, adoro linguística, sou fluênte em inglês, português, espanhol e francês.
 - Meus hobbies são a cozinha (confeitaria!), xadrez (siciliana ftw) e um barzinho com sinuca. Segue abaixo meu contato :o)
-instagram: @gupoester
-email: gupoester@gmail.com
+- instagram: @gupoester
+- email: gupoester@gmail.com
 
 _____________________________________________________________________________________________________________________________________________
 :us:
@@ -18,5 +18,5 @@ and Porto Alegre (BR)
 - Besides, I'm really into linguistics, I'm fluent in english, portuguease, spanish and french.
 - Also, my hobbies are mainly cooking (bakery!), chess (sicilian ftw) and playing pool. 
 So contact me if you have any questions!
-instagram: @gupoester
-email: gupoester@gmail.com
+- instagram: @gupoester
+- email: gupoester@gmail.com
