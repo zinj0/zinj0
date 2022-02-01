@@ -16,7 +16,6 @@ and Porto Alegre (BR)
 - I love theater, cinema and carpentry! So because of that I also work on shows and performances.
 - Recently my interest has shifted towards graphic design and interfaces, so right now I study JavaScript, React and UX design.
 - Besides, I'm really into linguistics, I'm fluent in english, portuguease, spanish and french.
-- Also, my hobbies are mainly cooking (bakery!), chess (sicilian ftw) and playing pool. 
-So contact me if you have any questions!
+- Also, my hobbies are mainly cooking (bakery!), chess (sicilian ftw) and playing pool. So contact me if you have any questions!
 - instagram: @gupoester
 - email: gupoester@gmail.com
