@@ -4,7 +4,7 @@
 - Amo teatro, cinema e marcenaria! Por isso, já trabalhei em espetáculos e filmes como cenógrafo e diretor de arte.
 - Recentemente minhas imagens transbordaram para o campo do design gráfico e a exploração de interfaces por isso, atualmente estudo JavaScript, React e design UX.
 - Além disso, adoro linguística, sou fluênte em inglês, português, espanhol e francês.
-- Meus hobbies são a cozinha (confeitaria!), xadrez (siciliana ftw) e um barzinho com sinuca. Segue abaixo meu contato :o)
+- Meus hobbies são a cozinha (confeitaria!) e xadrez (siciliana ftw). Segue abaixo meu contato :o)
 - https://www.instagram.com/gupoester/
 - gupoester@gmail.com
 
@@ -16,6 +16,6 @@ and Porto Alegre (BR)
 - I love theater, cinema and carpentry! So because of that I also work on shows and performances.
 - Recently my interest has shifted towards graphic design and interfaces, so right now I study JavaScript, React and UX design.
 - Besides, I'm really into linguistics, I'm fluent in english, portuguease, spanish and french.
-- Also, my hobbies are mainly cooking (bakery!), chess (sicilian ftw) and playing pool. So contact me if you have any questions!
+- Also, my hobbies are mainly cooking (bakery!) and chess (sicilian ftw). So contact me if you have any questions!
 - https://www.instagram.com/gupoester/
 - gupoester@gmail.com
