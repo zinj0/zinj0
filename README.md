@@ -1,4 +1,3 @@
-:us:
 - My name is Gustavo Poester, I'm an artist, graphic designer, art director, production designer, currently learning software development and living in Buenos Aires (ARG)
 - I'm a bachelor in Visual Arts and work eather with drawings and paintings in relatively traditional mediums (oil, charcoal...).
 - I love theater, cinema and carpentry! So because of that I also work on shows and performances.
